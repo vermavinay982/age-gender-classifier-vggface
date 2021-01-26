@@ -66,7 +66,7 @@ actual_predictions = np.sum(predictions * output_indexes, axis = 1)
 - Evaluation script of the same model is there to infer your models
 
 ## Contribute
-You can for the repository - create a pull request after making changes or can drop the issue byt creating a new issue. It would be helpful for the community.
+You can for the repository - create a pull request after making changes or can drop the issue by creating a new issue. It would be helpful for the community.
 
 
 ## Credits
