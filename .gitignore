@@ -1,0 +1,8 @@
+*.tar
+wiki_crop
+.ipynb_checkpoints
+*.out
+*.pkl
+*.pickle
+*.h5
+*.hdf5
