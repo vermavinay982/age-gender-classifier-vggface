@@ -1,4 +1,4 @@
-## Age and Gender via Transfer Learning - (on IMDB/ Wiki Dataset) 
+## :camera: Age and Gender via Transfer Learning - (on IMDB/ Wiki Dataset) 
 This model is using *classification* approach. Trained on 22k images scrapped from Wikipedia. IMDB dataset is also attached and can be used similarly.
 
 
