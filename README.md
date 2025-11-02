@@ -65,6 +65,16 @@ actual_predictions = np.sum(predictions * output_indexes, axis = 1)
 - Train the model which you are willing to use
 - Evaluation script of the same model is there to infer your models
 
+**Note:** For the new transformer-based model, please use the `train_transformer.ipynb` and `eval_transformer.ipynb` notebooks.
+
+## Transformer-Based Model
+A new transformer-based model has been added to this project. This model uses a Vision Transformer (ViT) architecture and is trained to predict both age and gender simultaneously. The new model is implemented in two new notebooks:
+
+- `train_transformer.ipynb`: This notebook trains the unified Vision Transformer (ViT) model with separate classification heads for age and gender.
+- `eval_transformer.ipynb`: This notebook evaluates the trained ViT model on both age and gender prediction tasks.
+
+To use the new model, you can follow the instructions in the `train_transformer.ipynb` and `eval_transformer.ipynb` notebooks.
+
 ## Contribute
 You can for the repository - create a pull request after making changes or can drop the issue by creating a new issue. It would be helpful for the community.
 
